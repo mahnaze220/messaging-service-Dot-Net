@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MessagingClient": {
+      "commandName": "Project",
+      "commandLineArgs": "mahnaz"
+    }
+  }
+}
